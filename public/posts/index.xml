@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blogs</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blogs</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Sep 2025 01:46:24 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to learning any new Programming Language ?</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 14 Sep 2025 01:46:24 +0530</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>How to Setup Secugen</title>
+      <link>http://localhost:1313/posts/how-to-setup-secugen/</link>
+      <pubDate>Sun, 14 Sep 2025 01:46:24 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-setup-secugen/</guid>
+      <description>&lt;p&gt;Fingerprint
+Nowadays, Fingerprint Scanners are being used extensively in some or the other way in many government Procedures. From Aadhar Updation to Openning a Post Office Bank to Generating Drafts for Leave and License Agreement and beyond; Everywhere Biometric Authentication is required and a result not only the Device is neccessary but setting it up correctly is equally important. So, Here’s how you can install correct drivers and successfully connect Secugen based Fingerprint Scanners to your PC as many of government websites are only compatible to few Fingerprint Scanners.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
